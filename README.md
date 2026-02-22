@@ -1,4 +1,4 @@
-# hide-in-wav-spectrogram
+# text2wav
 
 A tiny Python CLI that hides a text message **visually** inside a `.wav` file as **spectrogram art** (viewable in **Audacity**).
 
